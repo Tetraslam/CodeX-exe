@@ -5,11 +5,11 @@
 
 ## What is CodeX.exe?
 ---------
-
+a
 CodeX.exe is a tool for experienced programmers and new ones, which provides documentation, tutorials and IDEs for major programming languages and frameworks. Use it online to get access to major programmer communities like Stack Overflow and Github, or use it offline for learning to code distraction-free with documentation and tutorials for major programming languages and frameworks. 
 
 
-# IMPORTANT NOTE: There are multiple branches in this repository. The main branch, which is what you are on right now, is the electron application branch. The `website` branch has the website, and the Figma app is linked below:
+
 
 ## [Figma app](https://www.figma.com/proto/jyAc79NFjuBkc4kSuplq7k/CodeX-Mobile?node-id=15%3A26&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A26)
 
